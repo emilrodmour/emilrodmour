@@ -1,6 +1,6 @@
 # Hi there I'm *Emily*👋
 ### Always growing :mechanical_arm:
-<img src="https://i.pinimg.com/originals/96/db/0b/96db0b5e09e79f9573b6b927ea306b8d.gif" style="float:right;width:35px;height:35px;">
+<img src="https://i.pinimg.com/originals/96/db/0b/96db0b5e09e79f9573b6b927ea306b8d.gif" width="200" height="100" align="right">
 
 <!--
 **emilrodmour/emilrodmour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
