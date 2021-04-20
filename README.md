@@ -1,6 +1,4 @@
-# Hi there 👋
-___
-## My name is *Emily* and I'm from 🇧🇷
+# Hi there I'm *Emily*👋
 ---
 ### Always growing :mechanical_arm:
 
