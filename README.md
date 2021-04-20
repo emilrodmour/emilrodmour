@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+___
+## Meu nome é Emily  e  eu sou do  :brazil:
 <!--
 **emilrodmour/emilrodmour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
