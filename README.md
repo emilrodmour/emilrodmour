@@ -1,6 +1,6 @@
 # Hi there I'm *Emily*👋
 ### Always growing :mechanical_arm:
-
+<img src="https://media1.tenor.com/images/bb6e9e73cab4391f300abf560cb3a8ad/tenor.gif?itemid=18598207" width="100" height="100">
 
 <!--
 **emilrodmour/emilrodmour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
