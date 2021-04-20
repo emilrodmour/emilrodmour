@@ -1,6 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 ___
-## Meu nome é Emily  e  eu sou do  :brazil:
+## My name is *Emily* and I'm from 🇧🇷
+---
+### Always growing :mechanical_arm:
+
+
 <!--
 **emilrodmour/emilrodmour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
